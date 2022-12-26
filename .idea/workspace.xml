@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa1d336-680c-4244-9e8a-ac07607deeab" name="Changes" comment="Week3_library_model" />
+    <list default="true" id="afa1d336-680c-4244-9e8a-ac07607deeab" name="Changes" comment="Week4_Declarative_Programming">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-18.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="7va7c97x" />
@@ -56,11 +62,11 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -166,7 +172,11 @@
       <workItem from="1671313510652" duration="6928000" />
       <workItem from="1671381272869" duration="1992000" />
       <workItem from="1671435257475" duration="6039000" />
-      <workItem from="1671483027473" duration="510000" />
+      <workItem from="1671483027473" duration="1344000" />
+      <workItem from="1671659700199" duration="112000" />
+      <workItem from="1671659850015" duration="2390000" />
+      <workItem from="1672079959337" duration="841000" />
+      <workItem from="1672091341286" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="ggfggfhgfhfhgjgg">
       <created>1670636753842</created>
@@ -196,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671156218495</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week4_Declarative_Programming">
+      <created>1671484915080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671484915080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +236,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ggfggfhgfhfhgjgg" />
     <MESSAGE value="Week3_library_model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week3_library_model" />
+    <MESSAGE value="Week4_Declarative_Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week4_Declarative_Programming" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
