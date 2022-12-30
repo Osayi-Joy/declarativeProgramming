@@ -1,1 +1,1 @@
-# Week4_task
+# Declarative style of programming in java
